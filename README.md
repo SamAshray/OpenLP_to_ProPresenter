@@ -1,5 +1,6 @@
 # OpenLP_to_ProPresenter
 A Python script to convert OpenLP song export files which are in .xml format to .txt format, which then later can be imported by ProPresenter easily.
+
 ! The Script will only convert the Verse 1 (V1) in OpenLP Song Editor of each song !
 
 
